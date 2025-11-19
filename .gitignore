@@ -54,3 +54,6 @@ lerna-debug.log*
 *.db
 *.db-journal
 prisma/migrations/
+
+# Claude Code
+.claude
